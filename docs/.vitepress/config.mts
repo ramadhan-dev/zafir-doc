@@ -3,7 +3,7 @@ import { defineConfig } from 'vitepress'
 export default defineConfig({
   title: "Zafir HRIS",
   description: "Dokumentasi resmi HRIS API",
-  base: 'zafir-doc',
+  base: '/zafir-doc/',
 
   themeConfig: {
     nav: [
