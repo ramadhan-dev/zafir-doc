@@ -1,0 +1,36 @@
+# Node dependencies
+node_modules/
+
+# VitePress build output
+docs/.vitepress/dist/
+docs/.vitepress/cache/
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+bun-debug.log*
+
+# Editor / IDE
+.vscode/
+.idea/
+*.swp
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Environment variables
+.env
+.env.local
+.env.development
+.env.production
+
+# Deployment artifacts
+.deploy/
+deploy.sh
+
+# Optional: jika pakai GitHub Pages
+# Cache dari actions
+.cache/
