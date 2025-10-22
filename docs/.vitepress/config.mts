@@ -29,10 +29,10 @@ export default defineConfig({
           text: 'Employee',
           collapsed: false,
           items: [
-            { text: 'Overview', link: '/fitur/employee/overview' },
-            { text: 'Absensi', link: '/fitur/employee/absensi' },
-            { text: 'Cuti & Izin', link: '/fitur/employee/cuti-izin' },
-            { text: 'Slip Gaji', link: '/fitur/employee/slip-gaji' },
+            { text: 'Overview', link: '/fitur/superadmin/overview' },
+            { text: 'Dashboard', link: '/fitur/superadmin/dashboard' },
+            { text: 'Manajemen Karyawan', link: '/fitur/superadmin/manajemen-karyawan' },
+            { text: 'Laporan', link: '/fitur/superadmin/laporan' },
           ]
         }
       ],
@@ -42,18 +42,17 @@ export default defineConfig({
           text: 'API Reference',
           collapsed: false,
           items: [
-            { text: 'Overview', link: '/api/overview' },
-            { text: 'Authentication', link: '/api/auth' },
-            { text: 'Employee', link: '/api/employees' },
-            { text: 'Attendance', link: '/api/attendance' },
-            { text: 'Payroll', link: '/api/payroll' },
+            { text: 'Overview', link: '/fitur/superadmin/overview' },
+            { text: 'Dashboard', link: '/fitur/superadmin/dashboard' },
+            { text: 'Manajemen Karyawan', link: '/fitur/superadmin/manajemen-karyawan' },
+            { text: 'Laporan', link: '/fitur/superadmin/laporan' },
           ]
         }
       ]
     },
 
     socialLinks: [
-      { icon: 'github', link: 'https://github.com/ifindev' }
+      { icon: 'github', link: 'https://github.com/ramadhan-dev/zafir-doc' }
     ]
   }
 })

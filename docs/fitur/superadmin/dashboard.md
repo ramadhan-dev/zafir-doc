@@ -24,5 +24,3 @@ Berikut adalah daftar rute (URL) yang tersedia secara eksklusif untuk superadmin
 - **Log Aktivitas**: Riwayat aktivitas terbaru yang dilakukan oleh superadmin lain (jika tersedia).
 
 ---
-
-> 💡 Untuk informasi lebih lanjut tentang struktur API atau integrasi dengan frontend, lihat dokumentasi [API Reference](/api-reference) atau [Frontend Integration](/frontend-guide).

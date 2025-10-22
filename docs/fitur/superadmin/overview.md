@@ -60,9 +60,5 @@ Sebagai **Superadmin**, Anda memiliki akses penuh ke seluruh modul dan data mast
 
 Sebagai Superadmin, Anda dapat mulai dengan:
 
-- [👥 Membuat Data Karyawan](../manajemen-karyawan.md)
-- [⚙️ Mengatur Master Data](../master-data.md)
-- [🏖️ Mengelola Kebijakan Cuti](../cuti-izin.md)
-- [📊 Mengekspor Laporan Bulanan](../laporan-analitik.md)
 
 > 💬 Butuh bantuan? Hubungi tim support atau lihat [dokumentasi API](/api/overview) untuk integrasi otomatis.

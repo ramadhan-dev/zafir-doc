@@ -132,13 +132,6 @@ HRIS dapat terhubung dengan:
 
 ---
 
-## 🧭 Next Steps
-
-- [📘 Absensi](./absensi.md)
-- [👥 Manajemen Karyawan](./manajemen-karyawan.md)
-- [🏖️ Cuti & Izin](./cuti-izin.md)
-- [💰 Penggajian](./penggajian.md)
-- [📊 Laporan & Analitik](./laporan-analitik.md)
 
 ---
 

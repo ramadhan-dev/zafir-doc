@@ -141,10 +141,5 @@ Hubungi tim IT untuk konfigurasi integrasi.
 
 ---
 
-## 🚀 Langkah Selanjutnya
-
-- [🏖️ Kelola Pengajuan Cuti](./cuti-izin.md)
-- [🕒 Atur Jadwal Absensi](./absensi.md)
-- [💰 Siapkan Data Payroll](./penggajian.md)
 
 > 📌 **Tips**: Simpan backup data karyawan setiap bulan!
